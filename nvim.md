@@ -7,6 +7,7 @@
 * Terminal Dracula theme
 * `brew install ripgrep`
 * `brew install tmux`
+* tmux help: https://thoughtbot.com/blog/tmux-copy-paste-on-os-x-a-better-future
 
 ## nvim
 
